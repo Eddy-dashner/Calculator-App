@@ -18,6 +18,7 @@ Click on the "AC" button to clear the calculator and start over.
 The "DEL" button can be used to delete the last entered digit.
 # Getting started
 if you want to check how it work you can use this deployed link: https://eddy-dashner.github.io/Calculator-App/calculator.html
+
 If you want to explore the code or run the calculator locally, follow these steps:
 
 Clone the repository: git clone https://github.com/Eddy-dashner/Calculator-App.git
