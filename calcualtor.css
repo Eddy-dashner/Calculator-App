@@ -11,18 +11,19 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    background: grey;
 }
-.h1{
-    border: 2px solid white;
+.title{
+    /* border: 2px solid blue; */
+    margin: 10px 50px;
 }
 
 .calculator{
-    border: 1px solid #717377;
+    border: 1px solid black;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
-    box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+    box-shadow: black;
 
 }
 
@@ -36,11 +37,11 @@ input{
     font-size: 40px;
     text-align: right;
     cursor: pointer;
-    color: #ffffff;
+    color: black;
 }
 
 input::placeholder{
-    color: #ffffff;
+    color: black;
 }
 
 button{
@@ -50,16 +51,16 @@ button{
     margin: 10px;
     border-radius: 50%;
     background: transparent;
-    color: #ffffff;
+    color: black;
     font-size: 20px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
     cursor: pointer;
 }
 
 .equalBtn{
-    background-color: #fb7c14;
+    background-color: #7cb316;
 }
 
 .operator{
-    color: #6dee0a;
+    color: rgb(142, 17, 96);
 }
